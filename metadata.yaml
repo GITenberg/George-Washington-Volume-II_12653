@@ -1,0 +1,28 @@
+_repo: George-Washington-Volume-II_12653
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lodge, Henry Cabot
+    birthdate: 1850
+    deathdate: 1924
+    gutenberg_agent_id: '728'
+    url: http://www.gutenberg.org/2009/agents/728
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Cabot_Lodge
+description: Cover -- Contents.
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Washington, George, 1732-1799'
+- !lcsh 'Presidents -- United States -- Biography'
+- !lcc 'E300'
+- GITenberg
+tableOfContents: Working for union -- Starting the government -- Domestic affairs
+  -- Foreign relations -- Washington as a party man -- The last years -- George Washington.
+title: George Washington, Volume II
+url: http://www.gutenberg.org/ebooks/12653
